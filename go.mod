@@ -13,7 +13,7 @@ require (
 	github.com/miekg/dns v1.1.50
 	github.com/pelletier/go-toml v1.9.5
 	github.com/pires/go-proxyproto v0.6.2
-	github.com/refraction-networking/utls v1.1.5
+	github.com/refraction-networking/utls v1.2.0
 	github.com/sagernet/sing v0.0.0-20220801112236-1bb95f9661fc
 	github.com/sagernet/sing-shadowsocks v0.0.0-20220801112336-a91eacdd01e1
 	github.com/seiflotfy/cuckoofilter v0.0.0-20220411075957-e3b120b3f5fb
@@ -37,7 +37,7 @@ require (
 	github.com/francoispqt/gojay v1.2.13 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20210107165309-348f09dbbbc0 // indirect
 	github.com/google/pprof v0.0.0-20210407192527-94a9f03dee38 // indirect
-	github.com/klauspost/compress v1.15.11 // indirect
+	github.com/klauspost/compress v1.15.12 // indirect
 	github.com/klauspost/cpuid/v2 v2.1.2 // indirect
 	github.com/marten-seemann/qtls-go1-19 v0.1.1 // indirect
 	github.com/onsi/ginkgo/v2 v2.2.0 // indirect
